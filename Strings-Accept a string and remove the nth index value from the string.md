@@ -25,7 +25,7 @@ def remove(a):
             print(a[i],end='')
 ```
 ## Output
-![Uploading 438589026-1a17899e-b00b-4870-a86c-03823006a30d.png…]()
+![438589026-1a17899e-b00b-4870-a86c-03823006a30d](https://github.com/user-attachments/assets/93fb71ea-b617-4045-9568-cb981b5b0031)
 
 ## Result
 Thus the program executed successfully.
